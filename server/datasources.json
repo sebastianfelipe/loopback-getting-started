@@ -9,8 +9,18 @@
     "url": "",
     "database": "startdb",
     "password": "pass",
-    "name": "mysqlDs",
+    "name": "mysql",
     "user": "root",
     "connector": "mysql"
+  },
+  "mongodb": {
+    "host": "127.0.0.1",
+    "port": 27017,
+    "url": "",
+    "database": "mongodb",
+    "password": "pass",
+    "name": "mongodb",
+    "user": "root",
+    "connector": "mongodb"
   }
 }
